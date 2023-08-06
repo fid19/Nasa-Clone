@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "arwes": "^1.0.0-alpha.5",
+    "arwes": "1.0.0-alpha.5",
+    "motion": "^10.16.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
